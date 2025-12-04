@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/avielshaar/Documents/CSI/ex3/ex3'
+relocations:     []
+...
